@@ -1,4 +1,4 @@
-### Hello World
+### 🌎Hello World🌍
 ## I'm Fábio, but you can call me Fá 😄
 
  <img align="right" alt="GIF" src="https://github.com/FalgasDev/FalgasDev/blob/main/coding.gif?raw=true" width="500" height="320" />
