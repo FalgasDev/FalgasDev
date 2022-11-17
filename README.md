@@ -2,7 +2,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img style="width:670px" src="https://readme-typing-svg.herokuapp.com?lines=Hello,+visitor+!+✋&center=true&title_color=79c0ff"></a>
 </p> 
 
-## I'm Fábio, but you can call me Fá 😄
+## I'm Fábio, but you can call me Fá  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px"/>
 
  <img align="right" alt="GIF" src="https://github.com/FalgasDev/FalgasDev/blob/main/coding.gif?raw=true" width="450" height="320" />
 
