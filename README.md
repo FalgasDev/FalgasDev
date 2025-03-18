@@ -7,10 +7,10 @@
  <img align="right" alt="GIF" src="https://github.com/FalgasDev/FalgasDev/blob/main/coding.gif?raw=true" width="450" height="320" />
 
 
-### I'm a future Web FullStack Developer and a tech lover!
+### I'm a Web FullStack Developer and a tech lover!
 - 🙋‍♂️ I love working with people
 - ✈️ I like to travel and learn about new cultures
-- 💻 I’m currently working with HTML, CSS, JS and learning React
+- 💻 I’m currently working with HTML, CSS, JS, React and Python
 - 😄 Pronouns: He/His
 
 <br />
