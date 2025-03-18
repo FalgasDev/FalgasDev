@@ -2,7 +2,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img style="width:670px" src="https://readme-typing-svg.herokuapp.com?lines=Hello,+visitor+!+✋&center=true&title_color=79c0ff"></a>
 </p> 
 
-## I'm Fábio, but you can call me Garrote  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px"/>
+## I'm Fábio Garrote, but you can call me Garrote  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px"/>
 
  <img align="right" alt="GIF" src="https://github.com/FalgasDev/FalgasDev/blob/main/coding.gif?raw=true" width="450" height="320" />
 
@@ -34,13 +34,15 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> <br/> <br/>
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <br/> <br/>
 
 
 
 ### Loading...
 
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> <br/> <br/> <br/>
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /> <br/> <br/> <br/>
 
 <div align="center">
  <img align="left" alt="Fábio GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FalgasDev&show_icons=true&theme=radical&count_private=true" />
